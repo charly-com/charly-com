@@ -4,9 +4,6 @@
 **charly-com/charly-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 --->
-<div align="center">
-  <h2> 👋Hi, I’m Charles Chijuka, Welcome to my Github profile! </h2>
-  <!-- <img src="https://github.com/charly-com/charly-com" width="30"></h2> -->
  <h3 align="center">A passionate MERN stack developer</h3>
 
 <p align="center">
