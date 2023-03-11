@@ -21,7 +21,7 @@
 I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
   <h4>Top  Projects:</h4>
-  React js- <a href="https://charles-uche.netlify.app/">My Portfolio Website</a><br />
+  React js- <a href="https://charles-chijuka.netlify.app/">My Portfolio Website</a><br />
   Javascript- <a href="https://charly-todolist.netlify.app/">Todo List</a>
   <br />
   Javascript SPA- <a href="https://charles-stars-wars.netlify.app/">StarwarsAPI- API consuming(netlify)</a> 
