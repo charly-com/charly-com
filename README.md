@@ -22,15 +22,16 @@ I'm a Full Stack Developer with hands-on experience designing, developing and im
 <br />
   <h4>Top  Projects:</h4>
   React js- <a href="https://charles-chijuka.netlify.app/">My Portfolio Website</a><br />
-  Javascript- <a href="https://charly-todolist.netlify.app/">Todo List</a>
+  Fullstack MERN Banking app- <a href="https://premium-bank-inc.netlify.app/">Premium Bank </a>
   <br />
-  Javascript SPA- <a href="https://charles-stars-wars.netlify.app/">StarwarsAPI- API consuming(netlify)</a> 
+ Fullstack MERN Ecommerce App- <a href="https://ecommerce-proshop.netlify.app/">Proshop</a> 
 <br />
+React js Loan App- <a href="https://eazy-loan.netlify.app/">Eazy Loan </a>
   <br />
   I'm currently based in <a href="https://goo.gl/maps/wpi5Qva2FTCKDjpC6">Lagos, Nigeria.</a>
 <br/>
 <br />
-I love learning new techs and using new tools. I also love reading and watching football when I am not coding.
+I love learning new tech trend and using new teach tools in developing scalable app. I also love reading and watching football when I am not coding.
 <br />
 <br />
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
@@ -58,14 +59,14 @@ Ask me anything **[here](https://github.com/charly-com/charly-com)** or <a href=
 <br />
 <br />
 <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
+<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/charly-com/charly-com/blob/main/svgs/react.svg" alt="react"></a>
 <a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nextjs.svg" alt="next js"></a>
 <br />
 <br />
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
-<a margin="10" href="https://www.jetbrains.com/youtrack/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/yourtrack.svg" alt="yourtrack"></a>
-<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
+<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/charly/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
+<a margin="10" href="https://www.jetbrains.com/youtrack/" target="_blank"><img margin="10px" height="40" src="https://github.com/charly-com/charly-com/blob/main/svgs/yourtrack.svg" alt="yourtrack"></a>
+<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/charly-com/charly-com/blob/main/svgs/express.svg" alt="express"></a>
 </div>
 <br />
 <br />
